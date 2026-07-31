@@ -19,24 +19,46 @@
     <td width="64%" valign="top">
       <h2>Quién soy</h2>
       <p>
-        Soy una persona profundamente motivada por aprender, investigar y convertir ideas complejas en soluciones con impacto real.
-        Estudio Ingeniería de Sistemas y Computación, y veo la tecnología como una herramienta para entender el mundo, analizar problemas
-        de forma estructurada y construir sistemas que mejoren procesos, generen oportunidades y aporten al progreso social.
+        Soy una persona motivada por aprender, investigar y convertir ideas complejas en soluciones con impacto real.
+        Estudio Ingeniería de Sistemas y Computación, y veo la tecnología como una forma de entender el mundo, estructurar problemas
+        y construir herramientas que mejoren procesos, generen oportunidades y aporten al progreso social.
       </p>
       <p>
-        Mi curiosidad cruza varias disciplinas: inteligencia artificial, aprendizaje automático, ciencia de datos, computación distribuida,
-        ciberseguridad, robótica, física, matemáticas, blockchain y computación cuántica. Me interesa más entender los principios que hacen
-        posible una tecnología que memorizar solo su uso.
+        Mi curiosidad cruza IA, aprendizaje automático, ciencia de datos, computación distribuida, ciberseguridad, robótica, física,
+        matemáticas, blockchain y computación cuántica. Me interesa entender los principios, no solo usar herramientas.
       </p>
     </td>
     <td width="36%" valign="top">
       <h2>Resumen GitHub</h2>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumquirkxyz&theme=dark&bg_color=00000000&animation=stagger" alt="GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumquirkxyz&theme=github_dark&bg_color=00000000&animation=stagger" alt="GitHub stats" />
       <br />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumquirkxyz&theme=dark&bg_color=00000000&animation=draw" alt="GitHub profile details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumquirkxyz&theme=github_dark&bg_color=00000000&animation=draw" alt="GitHub profile details" />
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quantumquirkxyz&theme=github_dark&bg_color=00000000&utcOffset=-5&animation=stagger" alt="Productive time" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=quantumquirkxyz&theme=github_dark&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumquirkxyz&theme=github_dark&bg_color=00000000&animation=draw" alt="Repos per language" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quantumquirkxyz&theme=github_dark&bg_color=00000000&animation=draw" alt="Most commit language" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantumquirkxyz&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
 
 <table>
   <tr>

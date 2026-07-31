@@ -17,16 +17,16 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=Quantumquirkz&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=quantumquirkxyz&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantumquirkz&theme=transparent" alt="Profile details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumquirkxyz&theme=transparent" alt="Profile details" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quantumquirkz&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantumquirkxyz&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ## What I focus on
@@ -45,17 +45,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Quantumquirkz&theme=transparent" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumquirkxyz&theme=transparent" alt="Repos per language" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Quantumquirkz&theme=transparent" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quantumquirkxyz&theme=transparent" alt="Most commit language" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quantumquirkz&theme=transparent" alt="Stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quantumquirkz&theme=transparent&utcOffset=-5" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumquirkxyz&theme=transparent" alt="Stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quantumquirkxyz&theme=transparent&utcOffset=-5" alt="Productive time" />
 </p>
 
 ## Featured work

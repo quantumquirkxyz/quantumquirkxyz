@@ -1,11 +1,5 @@
-# <div align="center">Hi, I'm Jhuomar</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1200&center=true&vCenter=true&width=780&lines=Systems+%26+Robotics+Engineer;Automation%2C+Electronics+%26+Embedded+Systems;Scientific+communication+with+a+research+mindset" alt="Typing banner" />
-</p>
-
-<p align="center">
-  I build practical systems across software, electronics, and robotics, with a focus on clarity, experimentation, and teaching.
+  <img src="./assets/readme-hero.svg" alt="Dashboard-style README header" />
 </p>
 
 <p align="center">
@@ -14,60 +8,82 @@
   <a href="https://instagram.com/quantum.quirkz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=quantumquirkxyz&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <td width="68%" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantumquirkxyz&hide_border=true&area=true" alt="Contribution activity graph" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumquirkxyz&theme=transparent" alt="Profile details" />
+    <td width="32%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=quantumquirkxyz&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+      <br />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumquirkxyz&theme=dark&bg_color=00000000&animation=stagger" alt="Profile details" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantumquirkxyz&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
-## What I focus on
-
-- Robotics, automation, and embedded systems
-- Electronics, fabrication, and prototyping
-- Scientific communication and education
-- Research-driven problem solving
-
-## Selected stack
-
-`Python` `C` `C++` `Arduino` `Scratch` `MakeBlock` `TypeScript` `LaTeX` `FastAPI` `Django` `Flask` `Docker` `Supabase` `Postgres` `MongoDB` `TensorFlow` `PyTorch` `OpenCV` `Matplotlib`
-
-## Collaboration snapshot
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumquirkxyz&theme=transparent" alt="Repos per language" />
+    <td width="34%" valign="top">
+      <h3>What I focus on</h3>
+      <ul>
+        <li>Robotics, automation, and embedded systems</li>
+        <li>Electronics, fabrication, and prototyping</li>
+        <li>Scientific communication and education</li>
+        <li>Research-driven problem solving</li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quantumquirkxyz&theme=transparent" alt="Most commit language" />
+    <td width="66%" valign="top">
+      <h3>Selected Stack</h3>
+      <p>
+        <code>Python</code> <code>C</code> <code>C++</code> <code>Arduino</code> <code>Scratch</code>
+        <code>MakeBlock</code> <code>TypeScript</code> <code>LaTeX</code> <code>FastAPI</code>
+        <code>Django</code> <code>Flask</code> <code>Docker</code> <code>Supabase</code>
+        <code>Postgres</code> <code>MongoDB</code> <code>TensorFlow</code> <code>PyTorch</code>
+        <code>OpenCV</code> <code>Matplotlib</code>
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumquirkxyz&theme=transparent" alt="Stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quantumquirkxyz&theme=transparent&utcOffset=-5" alt="Productive time" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumquirkxyz&theme=dark&bg_color=00000000&animation=draw" alt="Repos per language" />
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quantumquirkxyz&theme=dark&bg_color=00000000&animation=draw" alt="Most commit language" />
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumquirkxyz&theme=dark&bg_color=00000000&animation=stagger" alt="Stats summary" />
+      <br />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quantumquirkxyz&theme=dark&bg_color=00000000&utcOffset=-5&animation=stagger" alt="Productive time" />
+    </td>
+  </tr>
+</table>
 
-## Featured work
+## Featured Work
 
-- Automation and control systems with a practical hardware-first mindset
-- Educational and outreach content that turns complex ideas into understandable systems
-- Prototypes that combine electronics, software, and mechanical design
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Automation & Control</h4>
+      <p>Practical hardware-first systems focused on reliability and measurable performance.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Education & Outreach</h4>
+      <p>Technical content that turns complex ideas into understandable systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Prototyping & Design</h4>
+      <p>Prototypes combining electronics, software, and mechanical design.</p>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary>More about me</summary>
 
-I am a self-taught and motivated builder with a strong base in programming, mathematics, physics, and electronics. My work sits at the intersection of software engineering, robotics, and scientific communication.
+I am a self-taught builder with a base in programming, mathematics, physics, and electronics.
 
 I care about systems that are maintainable, measurable, and easy to explain. I like building with a researcher's mindset: define the problem, test assumptions, measure results, and iterate.
 
@@ -79,8 +95,6 @@ Outside code, I enjoy tutoring, scientific outreach, and translating technical i
 
 If you want to collaborate on robotics, automation, education, or technical communication, reach out through LinkedIn or X.
 
----
-
 <p align="center">
-  Built to be concise, visual, and easier to scan than a wall of text.
+  Built to feel more like a dashboard than a wall of text.
 </p>

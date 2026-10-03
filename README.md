@@ -61,14 +61,46 @@
 | Quantitative finance | Stochastic modeling, risk ideas, optimization, and market-oriented tooling |
 | Distributed systems | Reliable architecture, services, coordination, and scalable software patterns |
 
-## Technical Focus
+## Project Map
 
-- AI, ML, data science, and scientific computing
-- Distributed systems, cybersecurity, and scalable architecture
-- Robotics, electronics, and hardware/software integration
-- Quantitative finance, stochastic modeling, and decision systems
-- Blockchain, quantum computing, and emerging technologies
+| Repository | Focus |
+| --- | --- |
+| [CodeForge](https://github.com/quantumquirkxyz/CodeForge) | Programming practice, engineering exercises, and system-building foundations |
+| [PraesagiumChain](https://github.com/quantumquirkxyz/PraesagiumChain) | Blockchain-oriented experimentation and predictive system ideas |
+| [CohortLens](https://github.com/quantumquirkxyz/CohortLens) | Cohort analysis and data intelligence workflows |
+| [data-intelligence-engineering](https://github.com/quantumquirkxyz/data-intelligence-engineering) | Data engineering, analytics, and applied intelligence work |
+| [Meridian](https://github.com/quantumquirkxyz/Meridian) | Product and systems experimentation |
+| [skills-quirk](https://github.com/quantumquirkxyz/skills-quirk) | Skill instructions, agent workflows, and documentation systems |
+| [FieldSight](https://github.com/quantumquirkxyz/FieldSight) | Field-oriented observation, tracking, or operational tooling |
+| [SHIELD](https://github.com/quantumquirkxyz/SHIELD) | Security-oriented systems and protective tooling |
 
-## Contact
+## About Me
 
-Reach out through LinkedIn or X if you want to collaborate on robotics, AI, software, research, or educational tools.
+I like working where theory meets implementation: systems that must be correct, measurable, and maintainable.
+
+My current interests sit at the intersection of AI, robotics, cybersecurity, data engineering, quantitative finance, blockchain, and scientific computing. I prefer projects that force clear architecture, useful metrics, and practical constraints.
+
+<details>
+<summary>How I think about engineering</summary>
+
+- Start from the problem, then choose the model, architecture, and tools.
+- Make results measurable before making them beautiful.
+- Treat documentation as part of the system, because future work depends on it.
+- Use small experiments to test hard assumptions before scaling the design.
+- Keep learning through research, chess, strategy games, hackathons, and real builds.
+
+</details>
+
+## Collaboration
+
+I am open to collaboration around robotics, AI, software, research tools, cybersecurity, data products, education, and systems engineering.
+
+<p align="center">
+  <a href="https://github.com/quantumquirkxyz"><img src="https://img.shields.io/badge/GitHub-quantumquirkxyz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://linkedin.com/in/jhuomar"><img src="https://img.shields.io/badge/LinkedIn-jhuomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://x.com/Quantumquirkz"><img src="https://img.shields.io/badge/X-Quantumquirkz-111111?style=for-the-badge&logo=x&logoColor=white" alt="X profile" /></a>
+</p>
+
+<p align="center">
+  Clean profile dashboard · No third-party contribution graphs · Pac-Man preserved
+</p>

@@ -50,12 +50,24 @@
 | Databases | PostgreSQL, MongoDB, data modeling |
 | Systems | Linux, Docker, Git, GitHub Actions, Arduino |
 
+## Skills Matrix
+
+| Discipline | What I build and study |
+| --- | --- |
+| Artificial intelligence | Applied ML, inference workflows, automation, evaluation, and model-backed products |
+| Data intelligence | Pipelines, analytics, cohort analysis, dashboards, and decision systems |
+| Cybersecurity | Secure system design, threat thinking, validation, and defensive tooling |
+| Robotics and hardware | Embedded logic, sensors, control systems, and hardware/software integration |
+| Quantitative finance | Stochastic modeling, risk ideas, optimization, and market-oriented tooling |
+| Distributed systems | Reliable architecture, services, coordination, and scalable software patterns |
+
 ## Technical Focus
 
 - AI, ML, data science, and scientific computing
 - Distributed systems, cybersecurity, and scalable architecture
 - Robotics, electronics, and hardware/software integration
 - Quantitative finance, stochastic modeling, and decision systems
+- Blockchain, quantum computing, and emerging technologies
 
 ## Contact
 

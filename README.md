@@ -36,9 +36,26 @@
   <img src="https://img.shields.io/badge/Public%20Repos-13-7AA2F7?style=for-the-badge" alt="Public repositories" />
 </p>
 
-## Who I Am
+## Languages and Tools
 
-I am a systems engineering student focused on turning research into working software, hardware, and data-driven systems.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,js,rust,bash,html,css,arduino,linux,docker,git,github,postgres,mongodb,supabase,fastapi,django,flask,tensorflow,pytorch,opencv&perline=8" alt="Programming languages and tools" />
+</p>
+
+| Area | Tools I use |
+| --- | --- |
+| Programming | Python, C, C++, TypeScript, JavaScript, Rust, Bash |
+| AI and data | TensorFlow, PyTorch, OpenCV, pandas, NumPy, Matplotlib |
+| Backend and APIs | FastAPI, Django, Flask, REST APIs, Supabase |
+| Databases | PostgreSQL, MongoDB, data modeling |
+| Systems | Linux, Docker, Git, GitHub Actions, Arduino |
+
+## Technical Focus
+
+- AI, ML, data science, and scientific computing
+- Distributed systems, cybersecurity, and scalable architecture
+- Robotics, electronics, and hardware/software integration
+- Quantitative finance, stochastic modeling, and decision systems
 
 ## Contact
 

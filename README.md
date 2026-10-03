@@ -24,10 +24,10 @@
 
 | Metric | Current profile signal |
 | --- | --- |
-| Public repositories | 13 |
-| Private workspace repositories | 2 |
+| Public repositories tracked | 13 |
 | Profile repository | `quantumquirkxyz/quantumquirkxyz` |
 | Pac-Man automation | Daily GitHub Actions workflow |
+| Stats scope | Public profile data only |
 | Primary direction | AI systems, data intelligence, robotics, cybersecurity, and quantitative software |
 
 <p align="center">

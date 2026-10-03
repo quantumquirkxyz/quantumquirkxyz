@@ -20,11 +20,25 @@
   Systems engineering student building AI, data, robotics, cybersecurity, and finance tools with a research-first engineering mindset.
 </p>
 
+## GitHub Snapshot
+
+| Metric | Current profile signal |
+| --- | --- |
+| Public repositories | 13 |
+| Private workspace repositories | 2 |
+| Profile repository | `quantumquirkxyz/quantumquirkxyz` |
+| Pac-Man automation | Daily GitHub Actions workflow |
+| Primary direction | AI systems, data intelligence, robotics, cybersecurity, and quantitative software |
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/quantumquirkxyz?style=for-the-badge&label=Followers&color=7AA2F7" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/quantumquirkxyz?affiliations=OWNER&style=for-the-badge&label=Stars&color=B3C6FF" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-13-7AA2F7?style=for-the-badge" alt="Public repositories" />
+</p>
+
 ## Who I Am
 
 I am a systems engineering student focused on turning research into working software, hardware, and data-driven systems.
-
-My work spans AI, machine learning, distributed systems, cybersecurity, robotics, quantitative finance, and scientific computing. The profile keeps the Pac-Man contribution animation and removes the older external chart cards for a cleaner, more reliable README.
 
 ## Contact
 

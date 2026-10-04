@@ -36,6 +36,32 @@
   <img src="https://img.shields.io/badge/Public%20Repos-13-7AA2F7?style=for-the-badge" alt="Public repositories" />
 </p>
 
+
+## GitHub Analytics
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=quantumquirkxyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=CDD6F4&icon_color=B3C6FF&rank_icon=github" alt="GitHub profile statistics" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumquirkxyz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=CDD6F4" alt="Most used public repository languages" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com?user=quantumquirkxyz&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=B3C6FF&currStreakLabel=CDD6F4" alt="GitHub contribution streak" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quantumquirkxyz&theme=tokyonight&utcOffset=-5" alt="Productive time profile card" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantumquirkxyz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CDD6F4&line=7AA2F7&point=B3C6FF&area=true&custom_title=Public%20Contribution%20Activity" alt="Public contribution activity graph" />
+</p>
+
 ## Languages and Tools
 
 <p align="center">
@@ -102,5 +128,5 @@ I am open to collaboration around robotics, AI, software, research tools, cybers
 </p>
 
 <p align="center">
-  Clean profile dashboard · No third-party contribution graphs · Pac-Man preserved
+  Clean profile dashboard · Public analytics graphs · Pac-Man preserved
 </p>

@@ -37,29 +37,25 @@
 </p>
 
 
+
 ## GitHub Analytics
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=quantumquirkxyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=CDD6F4&icon_color=B3C6FF&rank_icon=github" alt="GitHub profile statistics" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumquirkxyz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=CDD6F4" alt="Most used public repository languages" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=quantumquirkxyz&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=B3C6FF&currStreakLabel=CDD6F4" alt="GitHub contribution streak" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quantumquirkxyz&theme=tokyonight&utcOffset=-5" alt="Productive time profile card" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantumquirkxyz&theme=tokyonight" alt="GitHub profile contribution summary" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quantumquirkxyz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CDD6F4&line=7AA2F7&point=B3C6FF&area=true&custom_title=Public%20Contribution%20Activity" alt="Public contribution activity graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quantumquirkxyz&theme=tokyonight" alt="GitHub statistics summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quantumquirkxyz&theme=tokyonight" alt="Public repositories by language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quantumquirkxyz&theme=tokyonight" alt="Most used commit languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quantumquirkxyz&theme=tokyonight&utcOffset=-5" alt="Productive time summary" />
+</p>
+
+<p align="center">
+  <sub>Statistics are generated from public GitHub activity and may vary as repositories are updated.</sub>
 </p>
 
 ## Languages and Tools
@@ -128,5 +124,5 @@ I am open to collaboration around robotics, AI, software, research tools, cybers
 </p>
 
 <p align="center">
-  Clean profile dashboard · Public analytics graphs · Pac-Man preserved
+  Formal profile dashboard · Public analytics · Pac-Man preserved
 </p>

@@ -14,7 +14,7 @@
   <a href="https://instagram.com/quantum.quirkz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h1 align="center">Jhuomar Boskoll Quintero · Quantum Quirks XYZ</h1>
+<h1 align="center">Jhuomar Boskoll Quintero  |  quantumquirkxyz</h1>
 
 <p align="center">
   Systems engineering student building AI, data, robotics, cybersecurity, and finance tools with a research-first engineering mindset.
